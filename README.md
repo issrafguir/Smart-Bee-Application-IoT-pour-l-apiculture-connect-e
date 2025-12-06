@@ -86,6 +86,7 @@ Découvrez Smart Bee en action avec l’application mobile, le dashboard Grafana
 
 ### Vidéo Démo
 Vous pouvez regarder la vidéo de démonstration ici :  
-[Regarder la démo sur Google Drive]([https://drive.google.com/file/d/ID_DE_LA_VIDEO/view?usp=sharing](https://drive.google.com/file/d/1O7bMkj9U06TY-LJi3MK9QyKJPTnHvwUq/view?resourcekey))
+[Regarder la démo sur Google Drive](https://drive.google.com/file/d/1O7bMkj9U06TY-LJi3MK9QyKJPTnHvwUq/view?resourcekey)
+
 
 
