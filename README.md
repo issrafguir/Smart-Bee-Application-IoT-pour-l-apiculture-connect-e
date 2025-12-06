@@ -9,7 +9,7 @@ Les objectifs principaux :
 - Visualisation interactive et analyse des données avec Grafana  
 - Consultation mobile des mesures et alertes via une application Flutter  
 
-## 🛠 Fonctionnalités
+##  Fonctionnalités
 - **Surveillance intelligente des ruches** : mesure de température, humidité, CO₂, poids et activité  
 - **Communication IoT** : transmission des données en temps réel via MQTT, stockage dans InfluxDB  
 - **Visualisation temps réel** : tableaux et graphiques interactifs sur Grafana  
