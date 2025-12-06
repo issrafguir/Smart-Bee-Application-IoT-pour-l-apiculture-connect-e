@@ -53,22 +53,6 @@ flutter pub get
 # 4. Lancer l’application sur un émulateur ou un appareil physique
 flutter run
 
-# 5. Configurer le backend IoT
-# - Assurez-vous que votre broker MQTT est en fonctionnement (ex. Mosquitto ou Node-RED)
-# - Vérifiez que InfluxDB est lancé et accessible
-
-# 6. Visualiser les données dans Grafana
-# - Connectez Grafana à votre base InfluxDB
-# - Créez des tableaux et graphiques pour chaque mesure (température, humidité, CO₂, poids, activité)
-
-# 7. Consulter les données sur l’application mobile
-# - Ouvrir l’application Flutter sur votre appareil
-# - Accéder aux mesures en temps réel et aux alertes
-# - Vous pouvez suivre plusieurs ruches simultanément
-
-# 8. Personnaliser les alertes
-# - Modifier les seuils dans le code Flutter ou dans Node-RED selon vos besoins
-# - Recevoir des notifications si une ruche présente une anomalie
 
 
 ## 🎬 Démo
