@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1016726824660",
+    "firebase_url": "https://rucheiot-default-rtdb.firebaseio.com",
+    "project_id": "rucheiot",
+    "storage_bucket": "rucheiot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016726824660:android:7a5114d8f1a4efe0f7bd41",
+        "android_client_info": {
+          "package_name": "com.example.smart_bee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0VIJDtUbwBrn4_dxn60dqHNXG0lKnnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
