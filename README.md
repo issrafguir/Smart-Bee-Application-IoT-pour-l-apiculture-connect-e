@@ -1,6 +1,6 @@
 # Smart Bee — Système IoT pour l’apiculture connectée
 
-## 🎯 Objectif du Projet
+##  Objectif du Projet
 Développer un système IoT complet pour la surveillance des ruches afin d’assurer la santé des abeilles et optimiser l’efficacité de l’apiculture.  
 
 Les objectifs principaux :  
@@ -17,7 +17,7 @@ Les objectifs principaux :
 - **Gestion multi-ruche** : possibilité de suivre plusieurs ruches simultanément  
 - **Alertes intelligentes** : notifications sur anomalies détectées dans les ruches  
 
-## 📂 Contenu du Repository
+##  Contenu du Repository
 
 | Fichier / Dossier | Description |
 |------------------|-------------|
@@ -29,7 +29,7 @@ Les objectifs principaux :
 | `linux/` | Code pour exécuter l’application Flutter sur Linux |
 | `pubspec.yaml` | Fichier de configuration Flutter (dépendances, assets) |
 
-## 💻 Technologies et Librairies
+##  Technologies et Librairies
 **Langage :** Dart / Flutter  
 
 **Technologies IoT :**  
@@ -55,7 +55,7 @@ flutter run
 
 
 
-## 🎬 Démo
+##  Démo
 
 Découvrez Smart Bee en action avec l’application mobile, le dashboard Grafana et le backend IoT.  
 
