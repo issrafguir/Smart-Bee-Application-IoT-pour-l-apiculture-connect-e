@@ -39,7 +39,7 @@ Les objectifs principaux :
 - InfluxDB  
 - Grafana  
 
-## ⚙️ Installation & Utilisation
+##  Installation & Utilisation
 
 # 1. Cloner le projet
 git clone git@github.com:issrafguir/Smart-Bee-Application-IoT-pour-l-apiculture-connect-e.git
